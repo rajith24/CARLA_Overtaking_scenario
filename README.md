@@ -20,18 +20,18 @@
   
     <div class="overlay"></div>
     <div class="container">
-      <div class="row">
+        <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
+            <div class="page-heading">
             <h1 style="font-weight:700;margin:40px 0 20px;">CARLA</h1>
             
-              <span class="subheading" style="margin:20px 0 40px;">Open-source simulator for autonomous driving research.</span>
+                <span class="subheading" style="margin:20px 0 40px;">Open-source simulator for autonomous driving research.</span>
             
             
-              <p class="center"><a href="http://carla.readthedocs.io/en/latest/getting_started/" target="_blank" class="btn btn-primary" style="text-decoration: none;">Get Started</a></p>
+                <p class="center"><a href="http://carla.readthedocs.io/en/latest/getting_started/" target="_blank" class="btn btn-primary" style="text-decoration: none;">Get Started</a></p>
             
-          </div>
+            </div>
         </div>
-      </div>
+        </div>
     </div>
-  </header>
+</header>
