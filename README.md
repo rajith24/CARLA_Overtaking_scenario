@@ -1,4 +1,4 @@
-# Creating Scenario
+[![Proguard](./proguard-snippets.png)](http://www.thiengo.com.br/proguard-android){: .image-left } # Creating Scenario
 
 ## CARLA:
 
