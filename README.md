@@ -1,5 +1,6 @@
 
-![](https://alphadrive.ai/images/2019/03/carla-logo.png) CARLA Scenario Simulator
+![]https://carla.readthedocs.io/en/latest/img/welcome.png)
+# CARLA Scenario Simulator
 ==============================================================================
 ### Aim:
 >   * To perform an Overtaking Scenario
