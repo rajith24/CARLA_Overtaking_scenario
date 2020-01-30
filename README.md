@@ -1,4 +1,4 @@
-![](https://twitter.com/carlasimulator/photo) CARLA Scenario Simulator
+![](https://i.ytimg.com/vi/lsz0brXRgm8/maxresdefault.jpg) CARLA Scenario Simulator
 ==============================================================================
 ## CARLA:
 ### Aim:
