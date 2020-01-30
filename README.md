@@ -1,4 +1,5 @@
-![](https://i.ytimg.com/vi/lsz0brXRgm8/maxresdefault.jpg) CARLA Scenario Simulator
+                                                    CARLA Scenario Simulator
+![](https://alphadrive.ai/images/2019/03/carla-logo.png) 
 ==============================================================================
 ## CARLA:
 ### Aim:
