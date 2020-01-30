@@ -1,4 +1,4 @@
-[![Proguard](./proguard-snippets.png)](http://www.thiengo.com.br/proguard-android){: .image-left } # Creating Scenario
+![CARLA](https://alphadrive.ai/images/2019/03/carla-logo.png) # Creating Scenario
 
 ## CARLA:
 
