@@ -1,4 +1,4 @@
-![](C:\Temp\Untitled.png) CARLA Scenario Simulator
+![](https://twitter.com/carlasimulator/photo) CARLA Scenario Simulator
 ==============================================================================
 ## CARLA:
 ### Aim:
