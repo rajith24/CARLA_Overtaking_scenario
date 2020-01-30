@@ -1,5 +1,5 @@
 
-![]https://carla.readthedocs.io/en/latest/img/welcome.png)
+![](https://carla.readthedocs.io/en/latest/img/welcome.png)
 # CARLA Scenario Simulator
 ==============================================================================
 ### Aim:
