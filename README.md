@@ -1,7 +1,7 @@
 
 ![](https://carla.readthedocs.io/en/latest/img/welcome.png)
 # CARLA
-## Creating Scenaio:
+## Creating Scenario:
 ### Aim:
 >   * To perform an Overtaking Scenario
 >   * To view the details of ego-vehicle through pygame window
