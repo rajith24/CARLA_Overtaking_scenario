@@ -1,7 +1,6 @@
-                                                    CARLA Scenario Simulator
-![](https://alphadrive.ai/images/2019/03/carla-logo.png) 
+
+![](https://alphadrive.ai/images/2019/03/carla-logo.png) CARLA Scenario Simulator
 ==============================================================================
-## CARLA:
 ### Aim:
 >   * To perform an Overtaking Scenario
 >   * To view the details of ego-vehicle through pygame window
