@@ -14,3 +14,10 @@
 ### Ways To Do:
 >   * Ego-Vehicle can be controlled using [PID](https://en.wikipedia.org/wiki/PID_controller) controllers
 >   * Ego-Vehicle Trajectory can also be defined using [Local_planner](https://github.com/carla-simulator/carla/blob/master/PythonAPI/carla/agents/navigation/local_planner.py)
+
+
+### Project Demo:
+
+Short demo to visualize this project 
+
+* [Overtaking Scenario](https://drive.google.com/file/d/16d5KztUdi_XM5WZrWE-IYAB7LX-5Xrr1/view?usp=sharing)
